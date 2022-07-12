@@ -1,4 +1,4 @@
-baseURL = "https://ks3import.github.io"
+baseURL = "https://wila.github.io"
 languageCode = "en-us"
 title = "KS3-Import"
 contentdir = "content"
